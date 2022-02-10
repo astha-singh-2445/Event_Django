@@ -1,0 +1,6 @@
+.idea
+my_env
+db.sqlite3
+event/migrations
+event/__pycache__
+djangoproject/__pycache__
